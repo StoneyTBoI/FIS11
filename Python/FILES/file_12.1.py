@@ -10,7 +10,7 @@ try:
         datei = "./Python/FILES/SUBFILES/zauberlehrling_12_1.txt"
     else:
         print("Falsche Eingabe!")
-    stream = open(datei, mode="r", encoding="utf-8")
+    stream = open(datei, mode="r", encoding="ANSI")
     text = stream.read()
     print(text)
     words = text.split()

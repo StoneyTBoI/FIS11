@@ -1,0 +1,10 @@
+Johanna;Vampir
+Alma;Gruselhexe
+Eva;Zombie
+Kevil;Gruselhexe
+Hans;Skelett
+Markus;Zombie
+Rahel;Skelett
+Horst;Zombie
+Sven;Vampir
+Anja;Gespenst
